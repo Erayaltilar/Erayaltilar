@@ -1,9 +1,9 @@
 # Merhaba, Ben Eray Altılar! 👋
 
-![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/200px-Google-flutter-logo.png)
-![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/200px-Dart-logo.png)
+![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/100px-Google-flutter-logo.png)
+![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/100px-Dart-logo.png)
 ![Firebase Logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=tr)
-![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/150px-Kotlin_Icon.png)
+![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/100px-Kotlin_Icon.png)
 
 ## Hakkımda
 
