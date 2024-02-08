@@ -1,9 +1,6 @@
 # Merhaba, Ben Eray Altılar! 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/150px-Google-flutter-logo.png" alt="Flutter Logo" width="150" height="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/150px-Dart-logo.png" alt="Dart Logo" width="150" height="150">
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=tr" alt="Firebase Logo" width="150" height="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/150px-Kotlin_Icon.png" alt="Kotlin Logo" width="150" height="150">
+
 
 ## Hakkımda
 
