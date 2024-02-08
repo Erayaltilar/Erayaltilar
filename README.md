@@ -1,6 +1,6 @@
 ### Merhaba, Ben Eray Altılar! 👋
 
-![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/600px-Google-flutter-logo.png)
+![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/250px-Google-flutter-logo.png)
 
 ## Hakkımda
 
