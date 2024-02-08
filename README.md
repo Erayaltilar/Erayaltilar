@@ -1,16 +1,33 @@
-### Hi there 👋
+### Merhaba, Ben Eray Altılar! 👋
 
-<!--
-**Erayaltilar/Erayaltilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/600px-Google-flutter-logo.png)
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Merhaba! Ben Eray Altılar, bir Flutter geliştiricisiyim. Flutter ile uygulama geliştiriyorum ve bu alanda tutkulu biriyim. Hem kişisel projelerimde hem de profesyonel olarak çalışırken Flutter'ın gücünü ve esnekliğini keşfetmeye devam ediyorum.
+
+## İletişim Bilgileri
+
+- 📧 E-posta: eray.altilar@hotmail.com
+- 🔗 LinkedIn: [linkedin.com/in/erayaltilar]((https://www.linkedin.com/in/eray-altilar-b9057b228/))
+
+## Projeler
+
+İşte bazı projelerim:
+
+- **Flutter_bloc_login: Basit bir login işlemi, Flutter'ın bloc paketini öğrenirken geliştirdiğim bir projedir. [GitHub Repo]((https://github.com/Erayaltilar/Flutter_bloc_login))
+- **E Commerse App**: UI tabanlı E commerse uygulaması, Flutter ve GoogleMapAPI kullanılarak geliştirilmiştir. [GitHub Repo](https://github.com/Erayaltilar/E_commerse_pratic?tab=readme-ov-file)
+
+## Beğendiğim Teknolojiler
+
+- Flutter
+- Dart
+- Firebase
+- Git
+- VS Code
+
+## Katkılarınızı Bekliyorum!
+
+Eğer açık kaynaklı projelerde işbirliği yapmak isterseniz veya projelerimle ilgili geri bildirimleriniz varsa lütfen bana ulaşın veya bir PR gönderin! 
+
+Teşekkürler ve kodlamaya devam edin! 😊
