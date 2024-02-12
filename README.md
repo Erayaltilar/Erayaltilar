@@ -25,7 +25,7 @@ Merhaba! Ben Eray Altılar, bir Flutter geliştiricisiyim. Flutter ile uygulama 
 
 - **Flutter_bloc_login:** Basit bir login işlemi, Flutter'ın bloc paketini öğrenirken geliştirdiğim bir projedir. [GitHub Repo](https://github.com/Erayaltilar/Flutter_bloc_login)
 - **E Commerce App:** UI tabanlı E-ticaret uygulaması, Flutter ve Google Maps API kullanılarak geliştirilmiştir. [GitHub Repo](https://github.com/Erayaltilar/E_commerce_practice)
-- ** **Flutter Architecture** Veli Bacık ile Flutter mimarisi öğrendiğim bir Proje. [GitHub Repo](https://github.com/Erayaltilar/Architecture_Template/tree/Features)
+- ** **Flutter Architecture**: Veli Bacık ile Flutter mimarisi öğrendiğim bir Proje. [GitHub Repo](https://github.com/Erayaltilar/Architecture_Template/tree/Features)
 
 ## Beğendiğim Teknolojiler
 
