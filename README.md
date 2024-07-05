@@ -23,6 +23,7 @@ Merhaba! Ben Eray Altılar, bir Android geliştiricisiyim. Kotlin ve Compose ile
 
 İşte bazı projelerim:
 
+- **Android Shopping App**: Turkcell Gençlere Yatırım Geleceğe Yazılım 3.0 programı kapsamında final projesi olarak geliştirdiğim uygulamam. [GitHub Repo](https://github.com/Erayaltilar/ShoppingApp)
 - **Flutter_bloc_login:** Basit bir login işlemi, Flutter'ın bloc paketini öğrenirken geliştirdiğim bir projedir. [GitHub Repo](https://github.com/Erayaltilar/Flutter_bloc_login)
 - **E Commerce App:** UI tabanlı E-ticaret uygulaması, Flutter ve Google Maps API kullanılarak geliştirilmiştir. [GitHub Repo](https://github.com/Erayaltilar/E_commerce_practice)
 - **Flutter Architecture**: Veli Bacık ile Flutter mimarisi öğrendiğim bir Proje. [GitHub Repo](https://github.com/Erayaltilar/Architecture_Template/tree/Features)
@@ -33,10 +34,9 @@ Merhaba! Ben Eray Altılar, bir Android geliştiricisiyim. Kotlin ve Compose ile
 - JetpackCompose
 - Flutter
 - Dart
-- Firebase
 - Git
+- Firebase
 - Postman
-- VS Code
 
 ## Katkılarınızı Bekliyorum!
 
