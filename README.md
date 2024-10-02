@@ -1,5 +1,7 @@
 <div align="center">
+  
 # Hi, I'm Eray Altılar! 👋
+  
 <br />
 </div>
 
