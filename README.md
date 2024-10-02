@@ -10,7 +10,7 @@ Your Friendly Neighborhood **Android Developer**
 ## Connect With Me
 
 - 📧 **eray.altilar@hotmail.com**
-- 🔗  [linkedin.com/in/erayaltilar](https://www.linkedin.com/in/eray-altilar-b9057b228/)
+- 🔗 **[linkedin.com/in/erayaltilar](https://www.linkedin.com/in/eray-altilar-b9057b228/)**
 
 ## Languages And Tools
 
