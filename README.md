@@ -1,12 +1,9 @@
 <div align="center">
-  
 # Hi, I'm Eray Altılar! 👋
-
 <br />
+</div>
 
 Your Friendly Neighborhood **Android Developer**
-
-</div>
 
 ## Connect With Me
 
