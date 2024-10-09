@@ -5,7 +5,7 @@
 <br />
 </div>
 
-Your Friendly Neighborhood **Android Developer**
+Your Friendly Neighborhood **Mobile Developer**
 
 ## Connect With Me
 
